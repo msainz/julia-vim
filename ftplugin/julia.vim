@@ -25,7 +25,7 @@ let g:julia_highlight_operators=1
 
 " Comment the following two lines if you don't want julia source-code
 " style being enforced
-setlocal shiftwidth=4
+setlocal shiftwidth=2
 setlocal expandtab
 
 if exists("loaded_matchit")
